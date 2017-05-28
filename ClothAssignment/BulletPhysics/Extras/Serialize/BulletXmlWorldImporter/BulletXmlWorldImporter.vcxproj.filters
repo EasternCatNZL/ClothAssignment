@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\btBulletXmlWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\string_split.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinyxml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinystr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinyxmlerror.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinyxmlparser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\btBulletXmlWorldImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\string_split.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinyxml.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\tinystr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Uni Work\MDS\Physics\bullet3-master\Extras\Serialize\BulletXmlWorldImporter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{388F8723-A644-368F-85F5-898173E2794E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{30551C90-EE29-3C2D-A7C9-3FA7B0C7C6F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
